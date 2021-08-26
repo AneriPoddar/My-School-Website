@@ -1,0 +1,10 @@
+img{
+    width: 1500px;
+}
+h1{
+    font-family: 'Acme', sans-serif;
+    color:coral;
+}
+#contact{
+    background:linear-gradient( aqua 0%, hotpink 100% );
+}
